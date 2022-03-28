@@ -12,6 +12,7 @@ public class SpringbootApplication {
 
 		SpringApplication.run(SpringbootApplication.class, args);
 		System.out.println("master10");
+		System.out.println("rot10");
 	}
 
 }
