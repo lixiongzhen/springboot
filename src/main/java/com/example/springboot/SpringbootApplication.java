@@ -11,7 +11,7 @@ public class SpringbootApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SpringbootApplication.class, args);
-		System.out.println("hahaaaa");
+		System.out.println("嘻嘻嘻");
 	}
 
 }
